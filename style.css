@@ -263,13 +263,6 @@ form.form-horizontal {
 	color: rgba(94, 94, 94, 0.8);
 }
 
-.fa-facebook {
-	color: #2F80ED;
-	font-size: 28px;
-	margin-right: 10px;
-	margin-top: 25px;
-}
-
 .fa-instagram {
 	margin-top: 25px;
 	color: #2F80ED;
@@ -281,6 +274,13 @@ form.form-horizontal {
 	font-size: 28px;
 	margin-right: 10px;
 	margin-top: 25px;
+}
+
+.fa-github {
+	color: #2F80ED;
+	font-size: 28px;
+	margin-top: 25px;
+	margin-right: 10px;
 }
 /*=======END V 2.0==========*/
 

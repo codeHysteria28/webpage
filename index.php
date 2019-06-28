@@ -189,7 +189,7 @@ SEO is performed because a website will receive more visitors from a search engi
                         </div>
                         <input type="submit" name="btn" class="btn btn-primary" style="width: 150px;font-family: Raleway;" value="Send">
                         <div class="form-group">
-                        <a href="https://www.facebook.com/GlobalGD" target="_blank"><i class="fab fa-facebook"></i></a>
+                        <a href="https://github.com/GlobalGraphic" target="_blank"><i class="fab fa-github"></i></a>
                         <a href="https://www.linkedin.com/in/branislav-buna-0bab87181/" target="_blank"><i class="fab fa-linkedin"></i></a>
                         <a href="https://www.instagram.com/global_graphicdesign" target="_blank"><i class="fab fa-instagram"></i></a>
                       </div>
